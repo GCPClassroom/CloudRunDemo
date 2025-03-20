@@ -1,2 +1,4 @@
 Flask
 waitress
+google-cloud-storage
+google-cloud-secret-manager
